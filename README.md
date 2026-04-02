@@ -36,7 +36,7 @@ Despite its immense power, the relic resists ownership. It is often lost, only t
 
 # Stigmata of the Redeemer
 
-<img src="images/item_004.png" width="300" />
+<img src="images/item_004.png?v=1" width="300" />
 
 The Stigmata of the Redeemer is a sacred and fearsome relic, taking the form of a crown of thorns meant to be worn upon the head. Its twisted branches press firmly against the brow, drawing not only blood, but a silent vow from the one who bears it. Said to echo the suffering and sacrifice of a divine martyr, this crown is not an ornament, but a burden—one that binds the wearer to a higher calling. Those who place it upon their head often describe an immediate weight, not just physical, but spiritual, as if their thoughts are no longer entirely their own, but guided by something righteous and unyielding.
 
