@@ -1,0 +1,3 @@
+a seguir você vai receber texto que imagina dados de um "item" fantasioso/mágico. Sua tarefa será me enviar uma lore expandida para esse item em questão. Você deverá analisar o contexto e imaginar uma história mais completa para o item, mantendo todo o teor/tom/ideia/estilo do texto original. O texto deve conter entre 2 e 4 parágrafos. Mantenha obrigatoriamente o idioma inglês. Além disso, envie o texto final sem conter caracteres especiais de formatação. Mande em texto puro.
+
+[input text]
